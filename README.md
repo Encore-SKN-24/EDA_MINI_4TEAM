@@ -114,14 +114,12 @@ https://www.data.go.kr/data/15010271/fileData.do
 
 ## 📊시각화 자료
 
-
 < 폭염, 한파 >
 
-
 <img width="430" height="488" alt="10" src="https://github.com/user-attachments/assets/b582a004-dc4d-46bb-9212-4cf38be36e8d" />
-<img width="431" height="488" alt="11" src="https://github.com/user-attachments/assets/69182957-9ae6-4bc4-a7ff-9784cb1e4754" />
+<img width="431" height="488" alt="11" src="https://github.com/user-attachments/assets/69182957-9ae6-4bc4-a7ff-9784cb1e4754" /><br>
 <img width="278" height="394" alt="12" src="https://github.com/user-attachments/assets/5dc1c553-b9dc-4d85-8eb3-4b1be18756fb" />
-<img width="278" height="394" alt="13" src="https://github.com/user-attachments/assets/aedbe394-518c-4279-b1fd-46de00b8df43" />
+<img width="278" height="394" alt="13" src="https://github.com/user-attachments/assets/aedbe394-518c-4279-b1fd-46de00b8df43" /><br>
 <img width="244" height="470" alt="14" src="https://github.com/user-attachments/assets/7cd65ba7-80b4-4b0c-8f3e-b3826ae52683" />
 <img width="244" height="470" alt="15" src="https://github.com/user-attachments/assets/ab73cbe2-8498-4454-88ab-2e9e144099b7" />
 
@@ -142,7 +140,6 @@ https://www.data.go.kr/data/15010271/fileData.do
 < 입장객 (합계) 2023,2024 월별 총 입장객>
 <img width="1486" height="500" alt="스크린샷 2026-02-03 194724" src="https://github.com/user-attachments/assets/325c8e84-20ea-41ac-8e7f-af0a483cb5e1" />
 < 입장객 (합계) 2023,2024 연도별 총 입장객>
-
 <img width="501" height="409" alt="스크린샷 2026-02-03 203522" src="https://github.com/user-attachments/assets/3f3f62b7-c7a9-4853-a5dd-395f87000999" />
 
 인사이트 도출
@@ -168,12 +165,13 @@ Project Overview
 수많은 데이터를 보고 인지하면서 전처리를 하고 있지만 기획에 대한 생각이 짧다는 것을 느끼고 있다. 그래서 데이터 패턴 발견 후 비즈니스 목표나 사용자 니즈와 연결 짓는 데 시간이 부족해, 결과물이 실무적으로 덜 설득력 있게 느껴진다. 이를 개선하기 위해 다음부터 기획 목표를 먼저 정의하고 분석 중 주기적으로 점검하겠다.
 
 #### 김수진:
-실습 데이터로는 할 수 없는 정제되지 않은 데이터의 이상치와 결측치를 제거하고 정제하는 과정을 경험할 수 있었습니다. 실제 업무에서도 비슷한 전처리 과정을 거칠 것 같아 미리 체험하는 느낌이 들었습니다. 또한 동일한 데이터라도 파일명, 컬럼 구조, 데이터 타입이 제각각이라 직접 맞추고 처리하는 과정이 특히 값진 경험이었습니다다.
+실습 데이터로는 할 수 없는 정제되지 않은 데이터의 이상치와 결측치를 제거하고 정제하는 과정을 경험할 수 있었습니다. 실제 업무에서도 비슷한 전처리 과정을 거칠 것 같아 미리 체험하는 느낌이 들었습니다. 또한 동일한 데이터라도 파일명, 컬럼 구조, 데이터 타입이 제각각이라 직접 맞추고 처리하는 과정이 특히 값진 경험이었습니다.
 
 #### 이동민:
 이번 프로젝트로 결측치·이상치 처리 등 전처리의 중요성을 배웠습니다. 다만 분석 결과를 비즈니스 목표/사용자 니즈와 연결해 설명하는 부분이 부족했습니다. 다음에는 분석 전에 “이 결과로 무엇을 결정할지”를 더 신중히 정리하고, 중간마다 결론이 의사결정에 도움이 되는지 점검하겠습니다.
 
 #### 정석원:
+정제되지 않은 데이터를 직접 찾아 전처리하며, 단순히 빈칸을 채우는 것을 넘어 왜 이런 이상치가 발생했는가에 대해 깊이 고민하게 되었습니다. 이 과정을 통해 데이터의 특성을 깊이 이해할 수 있었고, 방대한 양을 다루다 보니, 생각한 형식과 맞지 않아 활용이 어려운 데이터도 있었습니다. 하지만 데이터 오염의 원인을 분석하고 나름의 정제 기준을 세우며 값진 경험이었습니다.
 
 #### 박정은:
 데이터 탐색은 정말 끝이 없는 과정이라 매번 필수라는 걸 다시금 깨달았습니다. 이번 프로젝트에서 날짜 형식은 맞았지만 정작 데이터 자체가 쓸 수 없는 상태인 것을 뒤늦게 알게 되었는데요. 다음에는 무작정 시작하기보다 연도별로 데이터를 먼저 훑어보며 가용성을 꼼꼼히 판단해야 할 것 같습니다. 마지막 단계에서 확인했다가 날짜가 맞지 않아 데이터를 통째로 못 쓰게 되는 (혹시 모르는 미래) 상황을 방지하는 것이 무엇보다 중요해 보입니다
