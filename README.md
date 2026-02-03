@@ -120,7 +120,8 @@ https://www.data.go.kr/data/15010271/fileData.do
 <img width="244" height="470" alt="14" src="https://github.com/user-attachments/assets/7cd65ba7-80b4-4b0c-8f3e-b3826ae52683" />
 <img width="244" height="470" alt="15" src="https://github.com/user-attachments/assets/ab73cbe2-8498-4454-88ab-2e9e144099b7" />
 
-<br><br>
+---
+
 < 입장객 (합계) 2023, 2024 >
 <br><br>
 <img width="573" height="411" alt="2023_boxplot" src="https://github.com/user-attachments/assets/657e6640-338a-4b95-9bb8-86434f2c0207" /><br>
