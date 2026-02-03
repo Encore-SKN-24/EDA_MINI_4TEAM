@@ -67,30 +67,50 @@ https://www.data.go.kr/data/15010271/fileData.do
 **예시: 관람 수** 
 1. 로드된 데이터
 
+<img width="574" height="336" alt="1" src="https://github.com/user-attachments/assets/801376dd-7eae-4d65-a785-dea59fda5738" />
+<img width="584" height="280" alt="2" src="https://github.com/user-attachments/assets/3e443ede-0313-48d5-9cd5-3d3c269efd6d" />
 
 2. 기후이상 데이터 날짜 컬럼 추가
+<img width="444" height="78" alt="3" src="https://github.com/user-attachments/assets/11b33939-2642-41dc-ba2d-36627e3bfb46" />
 
 
 3. 전처리된 기후이상 데이터
 
+<img width="432" height="337" alt="4" src="https://github.com/user-attachments/assets/e8dfae3a-f3a5-44a9-8151-2ab416a8fc22" />
 
-4. null값 처리
-
-
-5. 병합된 데이터
-
-
-6. 이상치 제거
+4. 병합된 데이터
+<img width="527" height="79" alt="5" src="https://github.com/user-attachments/assets/cac4d7f0-091c-48a4-8a1d-2b6d2008414d" />
 
 
-7. 이상치 제거된 데이터
 
+      
+
+<img width="243" height="629" alt="6" src="https://github.com/user-attachments/assets/f27dbf83-230a-44d1-a54a-a0f473688e8e" />
+
+5. 이상치 제거
+<img width="668" height="91" alt="7" src="https://github.com/user-attachments/assets/e083d945-d122-4f7f-b860-b5decaa1e0a6" />
+
+
+6. 이상치 제거된 데이터
+
+<img width="210" height="330" alt="9" src="https://github.com/user-attachments/assets/5edcde18-7ba5-4054-a229-60f2c8b35212" />
+<img width="211" height="328" alt="8" src="https://github.com/user-attachments/assets/710dfe1f-237c-42f3-89f4-a5d9d9d34458" />
 
 📊시각화 자료
 
 
 이미지
 < 그래프 설명 >
+<img width="430" height="488" alt="10" src="https://github.com/user-attachments/assets/b582a004-dc4d-46bb-9212-4cf38be36e8d" />
+<img width="431" height="488" alt="11" src="https://github.com/user-attachments/assets/69182957-9ae6-4bc4-a7ff-9784cb1e4754" />
+<img width="278" height="394" alt="12" src="https://github.com/user-attachments/assets/5dc1c553-b9dc-4d85-8eb3-4b1be18756fb" />
+<img width="278" height="394" alt="13" src="https://github.com/user-attachments/assets/aedbe394-518c-4279-b1fd-46de00b8df43" />
+<img width="244" height="470" alt="14" src="https://github.com/user-attachments/assets/7cd65ba7-80b4-4b0c-8f3e-b3826ae52683" />
+<img width="244" height="470" alt="15" src="https://github.com/user-attachments/assets/ab73cbe2-8498-4454-88ab-2e9e144099b7" />
+
+
+
+
 
 
 
