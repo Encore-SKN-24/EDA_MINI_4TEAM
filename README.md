@@ -65,20 +65,41 @@ https://www.data.go.kr/data/15010271/fileData.do
 
 
 **예시: 관람 수** 
-1. 로드된 데이터
+### 1. 로드된 데이터
 
 <img width="574" height="336" alt="1" src="https://github.com/user-attachments/assets/801376dd-7eae-4d65-a785-dea59fda5738" />
 <img width="584" height="280" alt="2" src="https://github.com/user-attachments/assets/3e443ede-0313-48d5-9cd5-3d3c269efd6d" />
 
-2. 기후이상 데이터 날짜 컬럼 추가
+<입장객 (합계) 데이터 로드><br>
+
+
+<img width="641" height="157" alt="dataload1" src="https://github.com/user-attachments/assets/09e3a17d-eea1-40c4-b9ec-9b9dc326a5ea" />
+<img width="674" height="315" alt="dataload2" src="https://github.com/user-attachments/assets/543f9906-0c5f-4f5d-a288-44dcc2b25d52" />
+
+
+
+
+
+### 2. 기후이상 데이터 날짜 컬럼 추가
 <img width="444" height="78" alt="3" src="https://github.com/user-attachments/assets/11b33939-2642-41dc-ba2d-36627e3bfb46" />
 
 
-3. 전처리된 기후이상 데이터
+< 입장객 (합계) 요일데이터 컬럼 추가 ><br>
+<img width="275" height="362" alt="2024_dataframe" src="https://github.com/user-attachments/assets/5ab2ca6f-348d-414c-8fab-58794abbc4f9" />
+
+
+
+
+
+### 3. 전처리된 기후이상 데이터
 
 <img width="432" height="337" alt="4" src="https://github.com/user-attachments/assets/e8dfae3a-f3a5-44a9-8151-2ab416a8fc22" />
 
-4. 병합된 데이터
+
+
+
+
+### 4. 병합된 데이터
 <img width="527" height="79" alt="5" src="https://github.com/user-attachments/assets/cac4d7f0-091c-48a4-8a1d-2b6d2008414d" />
 
 
@@ -87,21 +108,37 @@ https://www.data.go.kr/data/15010271/fileData.do
 
 <img width="243" height="629" alt="6" src="https://github.com/user-attachments/assets/f27dbf83-230a-44d1-a54a-a0f473688e8e" />
 
-5. 이상치 제거
+
+
+
+### 5. 이상치 제거
 <img width="672" height="94" alt="스크린샷 2026-02-03 195803" src="https://github.com/user-attachments/assets/ae0cbaf3-2af7-4889-94ff-088dea75ec91" />
 
 
 
-6. 이상치 제거된 데이터
+
+
+### 6. 이상치 제거된 데이터
 
 <img width="210" height="330" alt="9" src="https://github.com/user-attachments/assets/5edcde18-7ba5-4054-a229-60f2c8b35212" />
 <img width="211" height="328" alt="8" src="https://github.com/user-attachments/assets/710dfe1f-237c-42f3-89f4-a5d9d9d34458" />
 
-📊시각화 자료
+
+< 입장객 (합계) 이상치 결측 제거된 데이터>
+<img width="1026" height="75" alt="2023_2024_missing_dates" src="https://github.com/user-attachments/assets/626ad993-df88-470e-93bf-d8ac1549bf03" />
+
+<img width="221" height="169" alt="null값" src="https://github.com/user-attachments/assets/b0e5a297-bda2-4672-9679-2eed04ba7de1" />
 
 
-이미지
-< 그래프 설명 >
+
+
+
+## 📊시각화 자료
+
+
+< 폭염, 한파 >
+
+
 <img width="430" height="488" alt="10" src="https://github.com/user-attachments/assets/b582a004-dc4d-46bb-9212-4cf38be36e8d" />
 <img width="431" height="488" alt="11" src="https://github.com/user-attachments/assets/69182957-9ae6-4bc4-a7ff-9784cb1e4754" />
 <img width="278" height="394" alt="12" src="https://github.com/user-attachments/assets/5dc1c553-b9dc-4d85-8eb3-4b1be18756fb" />
@@ -109,11 +146,19 @@ https://www.data.go.kr/data/15010271/fileData.do
 <img width="244" height="470" alt="14" src="https://github.com/user-attachments/assets/7cd65ba7-80b4-4b0c-8f3e-b3826ae52683" />
 <img width="244" height="470" alt="15" src="https://github.com/user-attachments/assets/ab73cbe2-8498-4454-88ab-2e9e144099b7" />
 
+<br><br>
+< 입장객 (합계) 2023, 2024 >
+<br><br>
+<img width="573" height="411" alt="2023_boxplot" src="https://github.com/user-attachments/assets/657e6640-338a-4b95-9bb8-86434f2c0207" />
+<img width="570" height="409" alt="2024_boxplot" src="https://github.com/user-attachments/assets/c6cbb109-6780-40aa-bf43-66989b706876" />
 
 
+<img width="735" height="548" alt="2023_heatmap" src="https://github.com/user-attachments/assets/49b8db65-2440-4da5-8074-0f2224ada0a1" />
+<img width="733" height="549" alt="2024_heatmap" src="https://github.com/user-attachments/assets/67d2c4c7-f0a8-4562-90ac-efd24da4d158" />
 
 
-
+<img width="687" height="546" alt="2023_histogram" src="https://github.com/user-attachments/assets/1d71b5e8-15c7-4d50-ac78-a66a221a8e56" />
+<img width="687" height="543" alt="2024_histogram" src="https://github.com/user-attachments/assets/d8d2b7ac-158f-402e-83af-13b9d4e04bb7" />
 
 
 인사이트 도출
