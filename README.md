@@ -96,7 +96,11 @@ https://www.data.go.kr/data/15010271/fileData.do
 <img width="432" height="337" alt="4" src="https://github.com/user-attachments/assets/e8dfae3a-f3a5-44a9-8151-2ab416a8fc22" />
 
 
+<입장객 (합계) 전처리><br>
 
+<img width="663" height="200" alt="스크린샷 2026-02-03 203044" src="https://github.com/user-attachments/assets/910014e5-c2a8-4910-9667-681428bef556" />
+
+<img width="599" height="401" alt="스크린샷 2026-02-03 203107" src="https://github.com/user-attachments/assets/46df9a58-88f8-47db-85f5-8c83a77a4e61" />
 
 
 ### 4. 병합된 데이터
@@ -160,10 +164,17 @@ https://www.data.go.kr/data/15010271/fileData.do
 <img width="687" height="546" alt="2023_histogram" src="https://github.com/user-attachments/assets/1d71b5e8-15c7-4d50-ac78-a66a221a8e56" />
 <img width="687" height="543" alt="2024_histogram" src="https://github.com/user-attachments/assets/d8d2b7ac-158f-402e-83af-13b9d4e04bb7" />
 
+< 입장객 (합계) 2023,2024 월별 총 입장객>
+<img width="1486" height="500" alt="스크린샷 2026-02-03 194724" src="https://github.com/user-attachments/assets/325c8e84-20ea-41ac-8e7f-af0a483cb5e1" />
+< 입장객 (합계) 2023,2024 연도별 총 입장객>
+
+<img width="501" height="409" alt="스크린샷 2026-02-03 203522" src="https://github.com/user-attachments/assets/3f3f62b7-c7a9-4853-a5dd-395f87000999" />
 
 인사이트 도출
 1. 
-
+본 프로젝트는 2023~2025년 서울시 기온(시간별/일별)과 폭염·한파 특보 데이터를 예술의전당 공연·전시 입장객 데이터와 결합하여, 극한 기상이 관람객 수 변화에 미치는 영향을 분석했습니다.
+분석 결과, 폭염·한파가 관람객 수를 일관되게 증가·감소시키는 뚜렷한 패턴은 확인되지 않았습니다. 관람 수요는 기상 요인 단독보다는 작품 흥행, 주말/공휴일, 시즌성 등 운영·콘텐츠 요인의 영향을 더 크게 받는 것으로 해석됩니다. 이는 실내 문화시설의 특성과 관람이 예매 중심의 계획형 소비라는 점에서, 단기 기상 변화에 대한 수요 민감도가 상대적으로 낮을 수 있음을 시사합니다.
+향후에는 체감온도·강수·미세먼지 및 예매/취소 데이터를 결합하고, 타 문화시설로 분석 범위를 확장할 예정입니다.
 
 
 
