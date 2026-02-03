@@ -88,7 +88,8 @@ https://www.data.go.kr/data/15010271/fileData.do
 <img width="243" height="629" alt="6" src="https://github.com/user-attachments/assets/f27dbf83-230a-44d1-a54a-a0f473688e8e" />
 
 5. 이상치 제거
-<img width="668" height="91" alt="7" src="https://github.com/user-attachments/assets/e083d945-d122-4f7f-b860-b5decaa1e0a6" />
+<img width="672" height="94" alt="스크린샷 2026-02-03 195803" src="https://github.com/user-attachments/assets/ae0cbaf3-2af7-4889-94ff-088dea75ec91" />
+
 
 
 6. 이상치 제거된 데이터
