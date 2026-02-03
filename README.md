@@ -105,10 +105,7 @@ https://www.data.go.kr/data/15010271/fileData.do
 
 < 입장객 (합계) 이상치 결측 제거된 데이터>
 <img width="1026" height="75" alt="2023_2024_missing_dates" src="https://github.com/user-attachments/assets/626ad993-df88-470e-93bf-d8ac1549bf03" />
-
 <img width="221" height="169" alt="null값" src="https://github.com/user-attachments/assets/b0e5a297-bda2-4672-9679-2eed04ba7de1" />
-
-
 
 
 
@@ -126,20 +123,19 @@ https://www.data.go.kr/data/15010271/fileData.do
 <br><br>
 < 입장객 (합계) 2023, 2024 >
 <br><br>
-<img width="573" height="411" alt="2023_boxplot" src="https://github.com/user-attachments/assets/657e6640-338a-4b95-9bb8-86434f2c0207" />
+<img width="573" height="411" alt="2023_boxplot" src="https://github.com/user-attachments/assets/657e6640-338a-4b95-9bb8-86434f2c0207" /><br>
 <img width="570" height="409" alt="2024_boxplot" src="https://github.com/user-attachments/assets/c6cbb109-6780-40aa-bf43-66989b706876" />
-
 
 <img width="735" height="548" alt="2023_heatmap" src="https://github.com/user-attachments/assets/49b8db65-2440-4da5-8074-0f2224ada0a1" />
 <img width="733" height="549" alt="2024_heatmap" src="https://github.com/user-attachments/assets/67d2c4c7-f0a8-4562-90ac-efd24da4d158" />
 
-
 <img width="687" height="546" alt="2023_histogram" src="https://github.com/user-attachments/assets/1d71b5e8-15c7-4d50-ac78-a66a221a8e56" />
 <img width="687" height="543" alt="2024_histogram" src="https://github.com/user-attachments/assets/d8d2b7ac-158f-402e-83af-13b9d4e04bb7" />
 
+---
+
 < 입장객 (합계) 2023,2024 월별 총 입장객>
-<img width="1486" height="500" alt="스크린샷 2026-02-03 194724" src="https://github.com/user-attachments/assets/325c8e84-20ea-41ac-8e7f-af0a483cb5e1" />
-< 입장객 (합계) 2023,2024 연도별 총 입장객>
+<img width="1486" height="500" alt="스크린샷 2026-02-03 194724" src="https://github.com/user-attachments/assets/325c8e84-20ea-41ac-8e7f-af0a483cb5e1" /><br>
 <img width="501" height="409" alt="스크린샷 2026-02-03 203522" src="https://github.com/user-attachments/assets/3f3f62b7-c7a9-4853-a5dd-395f87000999" />
 
 인사이트 도출
