@@ -91,7 +91,8 @@ https://www.data.go.kr/data/15010271/fileData.do
 ### 5. 이상치 제거
 서울시의 역대 최고기온 39.6도 최저기온 -23.7도라는 데이터를 기준으로 이상치 제거
 
-<img width="672" height="94" alt="스크린샷 2026-02-03 195803" src="https://github.com/user-attachments/assets/ae0cbaf3-2af7-4889-94ff-088dea75ec91" />
+<img width="745" height="99" alt="스크린샷 2026-02-04 오전 8 58 50" src="https://github.com/user-attachments/assets/de127edb-ed68-46eb-88d3-705d41652c14" />
+
 
 
 ### 6. 이상치 제거된 데이터
