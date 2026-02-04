@@ -138,6 +138,8 @@ https://www.data.go.kr/data/15010271/fileData.do
 <img width="1486" height="500" alt="스크린샷 2026-02-03 194724" src="https://github.com/user-attachments/assets/325c8e84-20ea-41ac-8e7f-af0a483cb5e1" /><br>
 <img width="501" height="409" alt="스크린샷 2026-02-03 203522" src="https://github.com/user-attachments/assets/3f3f62b7-c7a9-4853-a5dd-395f87000999" />
 
+<img width="1701" height="469" alt="output" src="https://github.com/user-attachments/assets/e94dfaa8-53c5-4ccf-a5e6-3358b0025256" />
+
 ---
 
 인사이트 도출
