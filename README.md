@@ -97,8 +97,9 @@ https://www.data.go.kr/data/15010271/fileData.do
 
 ### 6. 이상치 제거된 데이터
 
-<img width="210" height="330" alt="9" src="https://github.com/user-attachments/assets/5edcde18-7ba5-4054-a229-60f2c8b35212" />
-<img width="211" height="328" alt="8" src="https://github.com/user-attachments/assets/710dfe1f-237c-42f3-89f4-a5d9d9d34458" />
+<img width="207" height="268" alt="스크린샷 2026-02-04 오전 8 59 07" src="https://github.com/user-attachments/assets/00743cd4-4433-4459-bc2c-844ea55f359b" />
+
+<img width="208" height="273" alt="스크린샷 2026-02-04 오전 9 01 28" src="https://github.com/user-attachments/assets/e1c2ece5-bdf3-4996-8eaf-942ae6284188" />
 
 
 < 입장객 (합계) 이상치 결측 제거된 데이터>
